@@ -2,7 +2,7 @@
 * Para crear una cuenta en **Github** he tenido que poner mi correo electrónico del instituto y una contraseña:
 
 
-![] (/Home/Kali/PPS-Actividad3Unidad0-JulioManuelTatoPulido/Credenciales.png)
+![] (Credenciales.png)
 
 
 
