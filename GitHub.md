@@ -1,7 +1,7 @@
 ## Creación de cuenta git
 * Para crear una cuenta en **Github** he tenido que poner mi correo electrónico del instituto y una contraseña:
 
-![] (Imagenes/Credenciales.png)
+![](Imagenes/Credenciales.png)
 
 ## Clave SSH
 
